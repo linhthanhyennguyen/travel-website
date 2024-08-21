@@ -1,0 +1,312 @@
+/** Small devices (landscape phones, 576px and up)**/
+@media (min-width: 300px) and (max-width: 575px) {
+    .home-sec1 {
+    height: auto;
+    padding-bottom: 30px;
+}
+section.home-sec1 h1 {
+    -webkit-text-stroke: 0.5px #fff;
+    font-size: 32px;
+}
+.fontsize-36 {
+    font-size: 24px;
+}
+.destination-row .col-xl-4 {
+    min-width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+    padding: 0 10px;
+    margin-bottom: 30px;
+}
+.service-row .col-xl-3 {
+    margin-bottom: 30px;
+}
+.fontsize-34 {
+    font-size: 24px;
+}
+.subscribe-inp-box input {
+    width: 100%;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+.subscribe-inp-box .fill-pink {
+    min-width: 100%;
+    height: 56px;
+}
+.home-sec4 {
+    height: 450px;
+}
+.bgorange.footerrow1 h5.fontsize-20 {
+    margin-top: 30px;
+}
+.footerrow1 {
+    height: auto;
+}
+.footersocialbox {
+    margin-top: 50px;
+}
+.footerrow2 img.ftrlogos {
+    width: 16%;
+}
+header.header .container-fluid {
+    padding: 0 15px;
+}
+.fontsize-60 {
+    font-size: 36px;
+}
+.inp-type2 {
+    width: 100%;
+}
+.contactform .btn.btn-black {
+    min-width: 100%;
+}
+.contact-left-col {
+    margin-top: 30px;
+}
+.conatct-social-rw {
+    margin-top: 41px;
+}
+.destinations-box h1 {
+    font-size: 40px;
+}
+.hotel-box h1 {
+        font-size: 30px;
+}
+.find-stay-col {
+    background: #fff;
+    padding: 15px 0;
+}
+.find-stay-col.searchcol {
+    margin-left: 0;
+    width: 100%;
+    margin-top: 30px;
+}
+.btn.btnsearch {
+    width: 100%;
+}
+.col-12.packages-left-col h1 {
+    font-size: 50px;
+}
+.package-percent-block {
+    height: 216px;
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+}
+.package-percent-block h3 {
+    -webkit-text-stroke: aqua;
+    font-size: 18px;
+}
+.btn.btn-green {
+    width: 100%;
+}
+.navbar-collapse.header-top-memu {
+    background: #fff;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    overflow: auto;
+}
+.hdr-right-menu .nav-link {
+    padding: 10px 20px !important;
+    font-size: 16px;
+}
+button.navbar-toggler.togglerBtn {
+    z-index: 111;
+}
+.packages-box {
+    background-size: cover;
+    background-position: center;
+}
+.destinations-sec1 {
+    background-size: cover;
+    background-position: center;
+}
+.hotel-sec1 {
+    background-position: center;
+    background-size: cover;
+}
+.packages-sec1{
+   background-position: center;
+    background-size: cover;
+}
+img.login-profile-img {
+    width: 100%;
+}
+.login-sec1{
+background-position: center;
+    background-size: cover;
+}
+img.login-profile-img {
+    width: auto;
+    height: 400px;
+    display: block;
+    margin: 0 auto 30px auto;
+}
+.login-left-col-form {
+    padding: 30px 50px 15px 50px;
+}
+.signup-sec1{
+    background-position: center;
+    background-size: cover;
+}
+.contact-sec1{
+    background-position: center;
+    background-size: cover;
+}
+}
+
+/** Small devices (landscape phones, 576px and up)**/
+@media (min-width: 576px) and (max-width: 767px) { 
+  .home-sec1 {
+    height: auto;
+    padding-bottom: 30px;
+}
+section.home-sec1 h1 {
+    -webkit-text-stroke: 0.5px #fff;
+    font-size: 32px;
+}
+.fontsize-36 {
+    font-size: 24px;
+}
+.destination-row .col-xl-4 {
+    min-width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+    padding: 0 10px;
+    margin-bottom: 30px;
+}
+.service-row .col-xl-3 {
+    margin-bottom: 30px;
+}
+.fontsize-34 {
+    font-size: 24px;
+}
+.subscribe-inp-box input {
+    width: 100%;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+.subscribe-inp-box .fill-pink {
+    min-width: 100%;
+    height: 56px;
+}
+.home-sec4 {
+    height: 450px;
+}
+.bgorange.footerrow1 h5.fontsize-20 {
+    margin-top: 30px;
+}
+.footerrow1 {
+    height: auto;
+}
+.footersocialbox {
+    margin-top: 50px;
+}
+.footerrow2 img.ftrlogos {
+    width: 16%;
+}
+header.header .container-fluid {
+    padding: 0 15px;
+}
+.fontsize-60 {
+    font-size: 36px;
+}
+.inp-type2 {
+    width: 100%;
+}
+.contactform .btn.btn-black {
+    min-width: 100%;
+}
+.contact-left-col {
+    margin-top: 30px;
+}
+.conatct-social-rw {
+    margin-top: 41px;
+}
+.destinations-box h1 {
+    font-size: 40px;
+}
+.hotel-box h1 {
+        font-size: 30px;
+}
+.find-stay-col {
+    background: #fff;
+    padding: 15px 0;
+}
+.find-stay-col.searchcol {
+    margin-left: 0;
+    width: 100%;
+    margin-top: 30px;
+}
+.btn.btnsearch {
+    width: 100%;
+}
+.col-12.packages-left-col h1 {
+    font-size: 50px;
+}
+.package-percent-block {
+    height: 216px;
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+}
+.package-percent-block h3 {
+    -webkit-text-stroke: aqua;
+    font-size: 18px;
+}
+.btn.btn-green {
+    width: 100%;
+}
+.navbar-collapse.header-top-memu {
+    background: #fff;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    overflow: auto;
+}
+.hdr-right-menu .nav-link {
+    padding: 10px 20px !important;
+    font-size: 16px;
+}
+button.navbar-toggler.togglerBtn {
+    z-index: 111;
+}
+}
+
+
+
+
+
+/** Medium devices (tablets, 768px and up)**/
+@media (min-width: 768px) and (max-width: 991px) {
+    
+}
+
+/** Large devices (desktops, 992px and up)**/
+@media (min-width: 992px) and (max-width: 1200px) { 
+
+}
+
+/** Extra large devices (large desktops, 1400px and up)**/
+@media (min-width: 1400px) and (max-width: 1799px) { 
+/** layout css **/
+
+/** header css **/
+
+/** footer css **/
+
+/** mid-content css **/
+}
+
+
+/** Extra large devices (large desktops, 1800px and up)**/
+@media (min-width: 1920px) { 
+
+}
